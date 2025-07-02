@@ -60,3 +60,10 @@ form .display input{
     box-shadow: none;
 }
 
+form button.equal{
+    width: 145px;
+}
+
+form button.operator{
+    color: #33ffd8;
+}
